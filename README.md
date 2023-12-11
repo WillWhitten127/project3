@@ -27,3 +27,12 @@ Tests
         test_auth_log_model.py - Tests for the AuthLog model.
         test_encryption_service.py - Tests for encryption and decryption functionality.
         test_password_service.py - Tests for password hashing and verification.
+
+Built With
+
+    Flask - The web framework used
+    SQLAlchemy - Database ORM
+    Argon2-cffi - Password hashing
+    Cryptography - Encryption library
+
+    
